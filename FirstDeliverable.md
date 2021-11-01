@@ -1,3 +1,6 @@
+<h1>Group 11 Members</h1>
+Mitchel Smith, Revanth Tiruveedhula, Anuhya Bharathy Uppalapati, Sai Nihanth Vanam, Shruthi Vasalamarri
+
 <h1>General Area Of Investigation</h1>
 We plan to investigate NFL game data to determine if certain statistics, such as passing yards or rushing yards, are more relevant than others for determining the winning team.
 
