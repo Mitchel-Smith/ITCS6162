@@ -24,7 +24,7 @@ Our data is play-by-play data covering regular season games in the NFL from the 
 Not only are there just too many features to be relevant, some of the features are so strongly correlated as to be effectively duplicate values. In addition to those two issues that come from having too many features, we are missing some important features that we would want, such as who won the game, so in this project we deal with all of those issues to improve the clarity and usefullness of the data for our purpose. 
 
 <h1>Results</h1>
-Our results support those found by Arkes in 2011 and extend them to be accurate and meassures at a drive-by-drive level rather than a first half-second half measure. While winning teams on average do outperform losing teams in both rushing and passing plays, the most significant difference is in the passing plays. 
+Our results support those found by Arkes in 2011 and extend them to be accurate and meassures at a drive-by-drive level rather than a first half-second half measure. While winning teams on average do outperform losing teams in both rushing and passing plays, the most significant difference is in the passing plays. One of the most notable results was that even though most people consider the run game to be important for time management, in fact the greater disparity comes from time management around passing plays which on average take longer than run plays. 
 
 <h1>Citations</h1>
 1) Lepschy, Hannes & Wäsche, Hagen & Woll, Alexander. (2018). How to be Successful in Football: A Systematic Review. 
