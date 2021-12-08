@@ -49,3 +49,6 @@ Finally, now that we have shown further evidence supporting Arkes's conclusion t
 3) Otten, M. P., & Miller, T. J. (2015). A Balanced Team Wins Championships: 66 Years of Data from the National Basketball Association and the National Football League. 
  Perceptual and Motor Skills, 121(3), 654–665. https://doi.org/10.2466/30.26.PMS.121c25x4</br>
 3) Arkes, J. (2011). Is Controlling the Rushing or Passing Game the Key to NFL Victories? The Sports Journal. 
+
+<h1>Questions about this Work</h1>
+Contact: Mitchel Smith at https://www.linkedin.com/in/mitchel-smith/
